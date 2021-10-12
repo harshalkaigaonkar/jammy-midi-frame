@@ -4,4 +4,4 @@ Demo version of music pad with 3 sound sets, reverb/delay/low Pass filters and a
 
 ### Demo video
 
-![here](https://www.youtube.com/watch?v=FypuhKkvN8I)
+<a href="https://www.youtube.com/watch?v=FypuhKkvN8I">Here.</a>
